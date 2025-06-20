@@ -1,3 +1,4 @@
+**Sourced from [DevAX1T](https://github.com/DevAX1T)** ❤️  
 <div align="center">
     <h1>oofbomb</h1>
    <h3><b>Luau and JavaScript programmer.</b></h3>
@@ -7,8 +8,7 @@
 
 ## Introduction
 Greetings!
-Greetings!
-I’m oofbomb — a LuaU programmer with 3–4 years of experience, currently expanding into JavaScript and exploring the world of cybersecurity. My main focus is on game development and scripting. I’m also actively learning IT to deepen my understanding of networks, hardware, and digital infrastructure.
+I’m oofbomb — a LuaU programmer with 3–4 years of experience, currently expanding into JavaScript & Python and also a beginner cybersecurity analyst. My main focus is on game development and scripting. I’m also actively learning IT to deepen my understanding of networks, hardware, and digital infrastructure.
 
 ### Open Source Projects
 Hopefully in the future I will have the motivation to create some useful open source projects to the community, but right now all of my projects are on private.
@@ -30,5 +30,3 @@ I can be reached via Discord: `@oofbomb` (`1160424627521212417`)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=meatballsong1&count_private=true&show_icons=true&bg_color=00000000&text_color=808080&hide_border=true" />
 
 
-**Sourced from [DevAX1T](https://github.com/DevAX1T)** ❤️  
- 

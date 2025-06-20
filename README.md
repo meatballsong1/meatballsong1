@@ -22,7 +22,7 @@ My **public** github page is quite bare, and **does not** serve as my portfolio.
 *(Sorry i thought the bold looked cool)*
 
 ## Statistics
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=meatballsong1&theme=tokyonight-duo)" alt="GitHub Streak" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=meatballsong1&theme=tokyonight-duo" alt="GitHub Streak" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meatballsong1&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=meatballsong1&count_private=true&show_icons=true&bg_color=00000000&text_color=808080&hide_border=true" />
 

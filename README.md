@@ -1,11 +1,10 @@
 <div align="center">
     <h1>oofbomb</h1>
-    <h3><b>Luau and JavaScript Programmer</b></h3>
+    <h3><b>LuaU and JavaScript Programmer</b></h3>
 </div>
 
 ## Introduction
-I’m oofbomb, a LuaU programmer with roughly 3–6 years of experience on the Roblox platform, currently expanding into JavaScript and Python. I'm also a beginner cybersecurity analyst. Currently, my main focus is on game development and scripting. Additionally, I’m learning more about IT and cybersecurity to build a stronger foundation in both fields.
-
+I’m oofbomb, a LuaU programmer with roughly 3–6 years of experience on the Roblox platform, currently expanding into JavaScript and Python. I'm also a beginner cybersecurity analyst. Currently, my main focus is on game development and scripting. Additionally, I’m learning more about IT and cybersecurity to build a stronger foundation in both fields. I am also in the process of learning TypeScript, which I think  will prove useful in my day to day tasks
 
 ### Open Source Projects
 Hopefully in the future, I’ll have the motivation to release some useful open source projects for the community. For now, all of my projects are private.

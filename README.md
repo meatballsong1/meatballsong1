@@ -16,6 +16,11 @@ You can reach me via Discord: `@oofbomb` (`1160424627521212417`)
 * [Roblox Profile](https://www.roblox.com/users/294476650/profile)
 * [Roblox Developer Forum](https://devforum.roblox.com/u/smartabity1)
 
+## Portfolio
+Currently, my domain portfolio is inactive but should be up soon (as of 6/19/2025). I’ll update this with the domain once it’s live.
+My **public** github page is quite bare, and **does not** serve as my portfolio.
+*(Sorry i thought the bold looked cool)*
+
 ## Statistics
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=meatballsong1&theme=dark" alt="GitHub Streak" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meatballsong1&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" />
@@ -23,8 +28,6 @@ You can reach me via Discord: `@oofbomb` (`1160424627521212417`)
 
 <br clear="left" />
 
-## Portfolio
-Currently, my domain portfolio is inactive but should be up soon (as of 6/19/2025). I’ll update this with the domain once it’s live.
 
 ---
 

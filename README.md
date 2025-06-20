@@ -10,7 +10,7 @@ I’m oofbomb, a LuaU programmer with roughly 3–6 years of experience on the R
 Hopefully in the future, I’ll have the motivation to release some useful open source projects for the community. For now, all of my projects are private.
 
 ## Contact
-You can reach me via Discord: `@oofbomb` (`1160424627521212417`)
+You can reach me via Discord: [`@oofbomb`](discord.com/users/1160424627521212417)
 
 ## Links
 * [Roblox Profile](https://www.roblox.com/users/294476650/profile)

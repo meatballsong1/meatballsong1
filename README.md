@@ -1,27 +1,20 @@
-**Sourced from [DevAX1T](https://github.com/DevAX1T)** ❤️  
 <div align="center">
     <h1>oofbomb</h1>
-   <h3><b>Luau and JavaScript programmer.</b></h3>
+    <h3><b>Luau and JavaScript Programmer</b></h3>
 </div>
-  
-
 
 ## Introduction
-Greetings!
-I’m oofbomb — a LuaU programmer with 3–4 years of experience, currently expanding into JavaScript & Python and also a beginner cybersecurity analyst. My main focus is on game development and scripting. I’m also actively learning IT to deepen my understanding of networks, hardware, and digital infrastructure.
+I’m oofbomb, a LuaU programmer with roughly 3–6 years of experience on the Roblox platform, currently expanding into JavaScript and Python. I'm also a beginner cybersecurity analyst. Currently, my main focus is on game development and scripting. Additionally, I’m learning more about IT and cybersecurity to build a stronger foundation in both fields.
+
 
 ### Open Source Projects
-Hopefully in the future I will have the motivation to create some useful open source projects to the community, but right now all of my projects are on private.
-<!--
-### Job Experiences
-* i will fill this out later
--->
+Hopefully in the future, I’ll have the motivation to release some useful open source projects for the community. For now, all of my projects are private.
 
 ## Contact
-I can be reached via Discord: `@oofbomb` (`1160424627521212417`)
+You can reach me via Discord: `@oofbomb` (`1160424627521212417`)
 
 ## Links
-* [Roblox Profile](www.roblox.com/users/294476650/profile)
+* [Roblox Profile](https://www.roblox.com/users/294476650/profile)
 * [Roblox Developer Forum](https://devforum.roblox.com/u/smartabity1)
 
 ## Statistics
@@ -29,4 +22,9 @@ I can be reached via Discord: `@oofbomb` (`1160424627521212417`)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meatballsong1&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=meatballsong1&count_private=true&show_icons=true&bg_color=00000000&text_color=808080&hide_border=true" />
 
+## Portfolio
+Currently, my domain portfolio is inactive but should be up soon (as of 6/19/2025). I’ll update this with the domain once it’s live.
 
+---
+
+**Sourced from [DevAX1T](https://github.com/DevAX1T)** ❤️
